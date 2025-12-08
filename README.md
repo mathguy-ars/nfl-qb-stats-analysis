@@ -21,8 +21,10 @@ Touchdowns are analyzed both in total and relative to passing attempts or comple
 
 Included Files
 
-qb_stats.csv: Contains passing attempts, completions, yards, completion percentage, and touchdowns for Drake Maye and a small group of other quarterbacks (through Week 13 of 2025).
+/data/qb_stats.csv: Contains passing attempts, completions, yards, completion percentage, and touchdowns for Drake Maye and a small group of other quarterbacks (through Week 13 of 2025).
 
-qb_stats_top5.csv: Contains the same metrics for Drake Maye and the top 5 quarterbacks in the league through Week 13 of the 2025 season.
+/data/qb_stats_top5.csv: Contains the same metrics for Drake Maye and the top 5 quarterbacks in the league through Week 13 of the 2025 season.
 
 analysis.py: A Python script that loads the datasets, calculates metrics, and outputs a comparison table ranking Drake Maye against both sets of quarterbacks.
+
+md_stats_notebook.ipynb: A collab notebook containing a modular view of code execution that makes up the analysis.py file. this entire presentation can be run via this notebook.
