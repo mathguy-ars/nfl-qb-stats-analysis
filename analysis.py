@@ -6,7 +6,7 @@ metrics, displays rankings, and generates five visualizations relevant to evalua
 Drake Maye against peer quarterbacks and the league's top 5 quarterbacks.
 
 Data sources:
-data/qb_stats.csv        (Drake Maye + peer quarterback group)
+data/qb_stats.csv        (Drake Maye + random peer quarterback group plus Josh Allen)
 data/qb_stats_top5.csv   (Drake Maye + top 5 quarterbacks through Week 13, 2025)
 
 Output:
