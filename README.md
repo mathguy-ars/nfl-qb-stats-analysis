@@ -31,10 +31,10 @@ nfl-qb-stats-analysis/
 ├── md_stats_notebook.ipynb
 ├── analysis.py
 ├── README.md
-├── progress-report.txt
-├── final-report.txt
+├── progress-report.md
+├── final-report.md
 ├── requirements.txt
-└── original-proposal.txt
+└── original-proposal.md
 ```
 
 
