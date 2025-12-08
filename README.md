@@ -34,7 +34,7 @@ nfl-qb-stats-analysis/
 ├── progress-report.txt
 ├── final-report.txt
 ├── requirements.txt
-└── rough-draft-report.txt
+└── original-proposal.txt
 ```
 
 
