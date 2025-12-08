@@ -20,12 +20,14 @@ Yards per Attempt (YPA) is calculated for each quarterback, providing insight in
 Touchdowns are analyzed both in total and relative to passing attempts or completions. This measure indicates Drake Maye’s ability to generate points and helps contextualize his effectiveness in scoring situations.
 
 **Folder Structure**
+```
 nfl-qb-stats-analysis/
 │
 ├── data/
-|   ├── placeholder.txt
+│   ├── placeholder.txt
 │   ├── qb_stats.csv
 │   └── qb_stats_top5.csv
+│
 ├── md_stats_notebook.ipynb
 ├── analysis.py
 ├── README.md
@@ -33,6 +35,8 @@ nfl-qb-stats-analysis/
 ├── final-report.txt
 ├── requirements.txt
 └── rough-draft-report.txt
+```
+
 
 **Included Files**
 
