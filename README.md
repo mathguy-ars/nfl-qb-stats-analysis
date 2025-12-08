@@ -19,6 +19,21 @@ Yards per Attempt (YPA) is calculated for each quarterback, providing insight in
 **_How does Drake Maye perform in terms of scoring, compared to other quarterbacks and the top 5?_**
 Touchdowns are analyzed both in total and relative to passing attempts or completions. This measure indicates Drake Maye’s ability to generate points and helps contextualize his effectiveness in scoring situations.
 
+**Folder Structure**
+nfl-qb-stats-analysis/
+│
+├── data/
+|   ├── placeholder.txt
+│   ├── qb_stats.csv
+│   └── qb_stats_top5.csv
+├── md_stats_notebook.ipynb
+├── analysis.py
+├── README.md
+├── progress-report.txt
+├── final-report.txt
+├── requirements.txt
+└── rough-draft-report.txt
+
 **Included Files**
 
 **/data/qb_stats.csv:** Contains passing attempts, completions, yards, completion percentage, and touchdowns for Drake Maye and a small group of other quarterbacks (through Week 13 of 2025).
@@ -28,3 +43,5 @@ Touchdowns are analyzed both in total and relative to passing attempts or comple
 **analysis.py:** A Python script that loads the datasets, calculates metrics, and outputs a comparison table ranking Drake Maye against both sets of quarterbacks.
 
 **md_stats_notebook.ipynb:** A collab notebook containing a modular view of code execution that makes up the analysis.py file. this entire presentation can be run via this notebook.
+
+The file **md_stats_notebook.ipynb** should be run in the order of the cells contained within the notebook. Start with cell 1 and work your way down. Alternatively, performing a "Run All" cell execution will also produce the same desired results. The necessary packages and csv files are loaded at the top of the notebook for your convenience. 
