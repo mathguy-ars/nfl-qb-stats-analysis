@@ -2,11 +2,11 @@
 
 **Project Summary**
 
-A comparative analysis of Drake Maye’s passing performance using a small dataset of other quarterbacks as well as the current top 5 quarterbacks in the league. All statistics and comparisons are through the first 13 weeks of the 2025 season. The goal is to evaluate Drake Maye on key metrics and understand how he stacks up against both his peers and the league’s leading passers.
+A comparative analysis of Drake Maye’s passing performance using a small dataset of other quarterbacks as well as the current top 5 quarterbacks in the league. All statistics and comparisons are through the first 14 weeks of the 2025 season. The goal is to evaluate Drake Maye on key metrics and understand how he stacks up against both his peers and the league’s leading passers.
 
 The analysis utilizes meaningful measures of quarterback performance including Completion Percentage, Yards per Attempt (YPA), and Touchdowns. These metrics provide insight into passing accuracy, efficiency, and scoring ability.
 
-We examine both a smaller group of randomly selected quarterbacks plus Josh Allen and an aggregate consensus of the top 5 leaderboard for the quarterback position based on week 13 qb starter data. 
+We examine both a smaller group of randomly selected quarterbacks plus Josh Allen and an aggregate consensus of the top 5 leaderboard for the quarterback position based on week 14 qb starter data. 
 
 **Key Questions Answered**
 
@@ -39,9 +39,9 @@ nfl-qb-stats-analysis/
 
 **Included Files**
 
-**/data_raw/qb_stats.csv:** Contains passing attempts, completions, yards, completion percentage, and touchdowns for Drake Maye and a small group of other quarterbacks (through Week 13 of 2025).
+**/data_raw/qb_stats.csv:** Contains passing attempts, completions, yards, completion percentage, and touchdowns for Drake Maye and a small group of other quarterbacks (through Week 14 of 2025).
 
-**/data_raw/qb_stats_top5.csv:** Contains the same metrics for Drake Maye and the top 5 quarterbacks in the league through Week 13 of the 2025 season.
+**/data_raw/qb_stats_top5.csv:** Contains the same metrics for Drake Maye and the top 5 quarterbacks in the league through Week 14 of the 2025 season.
 
 **analysis.py:** A Python script that loads the datasets, calculates metrics, and outputs a comparison table ranking Drake Maye against both sets of quarterbacks.
 
