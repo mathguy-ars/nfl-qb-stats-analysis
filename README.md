@@ -27,7 +27,7 @@ nfl-qb-stats-analysis/
 │   ├── qb_stats.csv
 │   └── qb_stats_top5.csv
 │
-├── md_stats_notebook.ipynb
+├── dm_stats_notebook.ipynb
 ├── analysis.py
 ├── README.md
 ├── progress-report.md
@@ -45,6 +45,6 @@ nfl-qb-stats-analysis/
 
 **analysis.py:** A Python script that loads the datasets, calculates metrics, and outputs a comparison table ranking Drake Maye against both sets of quarterbacks.
 
-**md_stats_notebook.ipynb:** A collab notebook containing a modular view of code execution that makes up the analysis.py file. this entire presentation can be run via this notebook.
+**dm_stats_notebook.ipynb:** A collab notebook containing a modular view of code execution that makes up the analysis.py file. this entire presentation can be run via this notebook.
 
-The file **md_stats_notebook.ipynb** should be run in the order of the cells contained within the notebook. Start with cell 1 and work your way down. Alternatively, performing a "Run All" cell execution will also produce the same desired results. The necessary packages and csv files are loaded at the top of the notebook for your convenience. 
+The file **dm_stats_notebook.ipynb** should be run in the order of the cells contained within the notebook. Start with cell 1 and work your way down. Alternatively, performing a "Run All" cell execution will also produce the same desired results. The necessary packages and csv files are loaded at the top of the notebook for your convenience. 
