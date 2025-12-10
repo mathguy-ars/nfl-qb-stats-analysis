@@ -23,8 +23,7 @@ Touchdowns are analyzed both in total and relative to passing attempts or comple
 ```
 nfl-qb-stats-analysis/
 │
-├── data/
-│   ├── placeholder.txt
+├── data_raw/
 │   ├── qb_stats.csv
 │   └── qb_stats_top5.csv
 │
@@ -40,9 +39,9 @@ nfl-qb-stats-analysis/
 
 **Included Files**
 
-**/data/qb_stats.csv:** Contains passing attempts, completions, yards, completion percentage, and touchdowns for Drake Maye and a small group of other quarterbacks (through Week 13 of 2025).
+**/data_raw/qb_stats.csv:** Contains passing attempts, completions, yards, completion percentage, and touchdowns for Drake Maye and a small group of other quarterbacks (through Week 13 of 2025).
 
-**/data/qb_stats_top5.csv:** Contains the same metrics for Drake Maye and the top 5 quarterbacks in the league through Week 13 of the 2025 season.
+**/data_raw/qb_stats_top5.csv:** Contains the same metrics for Drake Maye and the top 5 quarterbacks in the league through Week 13 of the 2025 season.
 
 **analysis.py:** A Python script that loads the datasets, calculates metrics, and outputs a comparison table ranking Drake Maye against both sets of quarterbacks.
 
