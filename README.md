@@ -8,7 +8,7 @@ The analysis utilizes meaningful measures of quarterback performance including C
 
 We examine both a smaller group of randomly selected quarterbacks plus Josh Allen and an aggregate consensus of the top 5 leaderboard for the quarterback position based on week 14 qb starter data. 
 
-The dataframe also consists of all quarterbacks with a minimum of 10 games started through the first 14 weeks of the season. This is useful in providing context to rankings as well as illustrating a larger picture of what would be considered average to above-average quarterback play in the league. It is important to note that one of the abilities a quarterback can possess is availability. Therefore it only makes sense to compare Drake Maye with other quarterbacks who have reliably been available for 10+ games this season. Players with less than 10 starts have not accumulated enough statistics to make worthwhile comparisons.
+The dataframe also consists of all quarterbacks with a minimum of 10 games started through the first 14 weeks of the season. This is useful in providing context to rankings as well as illustrating a larger picture of what would be considered average to above-average quarterback play in the league. It is important to note that one of the best abilities a quarterback can possess is availability. Therefore it only makes sense to compare Drake Maye with other quarterbacks who have reliably been available for 10+ games this season. Players with less than 10 starts have not accumulated enough statistics to make worthwhile comparisons.
 
 **Key Questions Answered**
 
