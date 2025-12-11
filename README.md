@@ -58,8 +58,11 @@ nfl-qb-stats-analysis/
 The file **dm_stats_notebook.ipynb** should be run in the order of the cells contained within the notebook. Start with cell 1 and work your way down. Alternatively, performing a "Run All" cell execution will also produce the same desired results. The necessary packages and csv files are loaded at the top of the notebook for your convenience. 
 
 **Requirements**
+
 pandas>=2.0
+
 matplotlib>=3.7
+
 notebook>=7.0
 
 **Installation and Setup**
