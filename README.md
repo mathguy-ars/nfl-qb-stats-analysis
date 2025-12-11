@@ -33,13 +33,10 @@ nfl-qb-stats-analysis/
 │   ├── qb_stats_agg.csv
 |   └── qb_stats_top5.csv
 │
-├── dm_stats_notebook.ipynb
-├── analysis.py
+├── md_stats_notebook.ipynb
 ├── README.md
-├── progress-report.md
 ├── final-report.md
-├── requirements.txt
-└── original-proposal.md
+└── requirements.txt
 ```
 
 
