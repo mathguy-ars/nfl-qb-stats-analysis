@@ -48,9 +48,7 @@ nfl-qb-stats-analysis/
 
 **/data_raw/qb_stats_agg.csv:** Contains qb data for all quarterbacks with 10+ games played across the first 14 weeks of 2025 nfl season.
 
-**analysis.py:** A Python script that loads the datasets, calculates metrics, and outputs a comparison table ranking Drake Maye against other quarterbacks.
-
-**dm_stats_notebook.ipynb:** A collab notebook containing a modular view of code execution that makes up the analysis.py file. The entire presentation can be run via this notebook.
+**dm_stats_notebook.ipynb:** A collab notebook containing a modular view of code execution that makes up the project. The entire presentation can be run via this notebook.
 
 The file **dm_stats_notebook.ipynb** should be run in the order of the cells contained within the notebook. Start with cell 1 and work your way down. Alternatively, performing a "Run All" cell execution will also produce the same desired results. The necessary packages and csv files are loaded at the top of the notebook for your convenience. 
 
