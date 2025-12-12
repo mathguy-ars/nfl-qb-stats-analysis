@@ -71,7 +71,7 @@ git clone https://github.com/mathguy-ars/nfl-qb-stats-analysis.git
 ````
 pip install pandas matplotlib jupyter 
 ````
-**Google Collab Execution**
+**Google Colab Execution**
 
 1. Open Google Colab
 
