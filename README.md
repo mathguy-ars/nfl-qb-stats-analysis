@@ -33,7 +33,7 @@ nfl-qb-stats-analysis/
 │   ├── qb_stats_agg.csv
 |   └── qb_stats_top5.csv
 │
-├── md_stats_notebook.ipynb
+├── maye_stats_notebook.ipynb
 ├── README.md
 ├── final-report.md
 └── requirements.txt
@@ -48,9 +48,9 @@ nfl-qb-stats-analysis/
 
 **/data_raw/qb_stats_agg.csv:** Contains qb data for all quarterbacks with 10+ games played across the first 14 weeks of 2025 nfl season.
 
-**dm_stats_notebook.ipynb:** A collab notebook containing a modular view of code execution that makes up the project. The entire presentation can be run via this notebook.
+**maye_stats_notebook.ipynb:** A collab notebook containing a modular view of code execution that makes up the project. The entire presentation can be run via this notebook.
 
-The file **dm_stats_notebook.ipynb** should be run in the order of the cells contained within the notebook. Start with cell 1 and work your way down. Alternatively, performing a "Run All" cell execution will also produce the same desired results. The necessary packages and csv files are loaded at the top of the notebook for your convenience. 
+The file **maye_stats_notebook.ipynb** should be run in the order of the cells contained within the notebook. Start with cell 1 and work your way down. Alternatively, performing a "Run All" cell execution will also produce the same desired results. The necessary packages and csv files are loaded at the top of the notebook for your convenience. 
 
 **Requirements**
 
@@ -75,6 +75,6 @@ pip install pandas matplotlib jupyter
 
 1. Open Google Colab
 
-2. Upload the notebook.ipynb file or connect to your GitHub repository
+2. Upload the maye_stats_notebook.ipynb file or connect to your GitHub repository
 
 3. Run the first cell to automatically set up the environment
