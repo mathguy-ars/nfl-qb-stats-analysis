@@ -1,8 +1,9 @@
-Player,Completions,Attempts,Yards,Touchdowns,Interceptions
-Drake Maye,276,386,3412,23,6
-Josh Allen,265,378,3083,22,10
-Jacoby Brissett,229,346,2459,15,5
-Caleb Williams,249,431,2908,19,6
-Bo Nix,297,470,2954,19,9
-C.J. Stroud,198,308,2181,12,6
-Jordan Love,259,386,3028,22,4
+Player,Completions,Attempts,Yards,Touchdowns,Interceptions,CompletionPct
+Drake Maye,276,386,3412,23,6,71.5
+Josh Allen,265,378,3083,22,10,70.1
+Jacoby Brissett,229,346,2459,15,5,66.2
+Caleb Williams,249,431,2908,19,6,57.8
+Bo Nix,297,470,2954,19,9,63.2
+C.J. Stroud,198,308,2181,12,6,64.3
+Jordan Love,259,386,3028,22,4,67.1
+
